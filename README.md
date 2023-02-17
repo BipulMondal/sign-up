@@ -9,4 +9,4 @@
 ![badge](https://img.shields.io/badge/Designing-Tailwind%20Css-blue)
 
 
-![image](screenshot.png)
+![image](E:\reactapp\sign up\screenshot.png)
