@@ -7,6 +7,4 @@
 
 ![badge](https://img.shields.io/badge/Frontend-React%20Js-important)
 ![badge](https://img.shields.io/badge/Designing-Tailwind%20Css-blue)
-
-
 ![image](E:\reactapp\sign up\screenshot.png)
